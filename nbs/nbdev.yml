@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "notebook"
+  site-url: "https://.github.io/notebook"
+  description: ""
+  repo-branch: 
+  repo-url: "https://github.com//notebook"
